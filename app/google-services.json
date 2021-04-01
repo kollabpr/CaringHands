@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153959490063",
+    "project_id": "caringhands-2916b",
+    "storage_bucket": "caringhands-2916b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153959490063:android:35e6fd653a87d38c6a797a",
+        "android_client_info": {
+          "package_name": "com.example.caringhands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153959490063-2rtoci2e16j14qtdu33t2e8euar0qv25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVA2e_4B5mVSQvw2k_N6rsgq9Egc0u80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153959490063-2rtoci2e16j14qtdu33t2e8euar0qv25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

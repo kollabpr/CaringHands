@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".DashboardActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#0445D1"
+        android:text="Please select the category:"
+        android:textSize="20dp"/>
+    <Button
+        android:id="@+id/Blood"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="60dp"
+        android:text="Blood"
+        android:textAllCaps="false"
+        android:textSize="20dp" />
+    <Button
+        android:id="@+id/Food"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="60dp"
+        android:text="Food"
+        android:textAllCaps="false"
+        android:textSize="20dp" />
+    <Button
+        android:id="@+id/Clothes"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="60dp"
+        android:text="Clothes"
+        android:textAllCaps="false"
+        android:textSize="20dp" />
+    <Button
+        android:id="@+id/Furniture"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="60dp"
+        android:text="Furniture"
+        android:textAllCaps="false"
+        android:textSize="20dp" />
+
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="60dp"
+        android:text="Logout"
+        android:textAllCaps="false"
+        android:textSize="20dp"
+        app:backgroundTint="#F44336" />
+</LinearLayout>
